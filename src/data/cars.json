@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Bentley",
+        "price": 250000,
+        "year": 2017,
+        "contact": {
+            "dealer": "Mark",
+            "number": "0703-840-409"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Porsche",
+        "price": 97000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Phoebe",
+            "number": "222-840-055"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": 5000,
+        "year": 2005,
+        "contact": {
+            "dealer": "Joe",
+            "number": "215-188-455"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Land Rover",
+        "price": 68000,
+        "year": 2020,
+        "contact": {
+            "dealer": "Monica",
+            "number": "222-222-222"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Nissan",
+        "price": 22000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Ross",
+            "number": "555-840-555"
+        }
+    }
+]
